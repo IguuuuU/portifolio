@@ -1,0 +1,25 @@
+[
+    {
+        "id": "01",
+        "imagem": "./assets/img/dinocrm.jpg",
+        "nome": "Dino Google",
+        "descricao": "Jogo do dino feito em JS", 
+        "link": "https://meulink.com.br"
+    },
+    
+    {
+        "id": "02",
+        "imagem": "./assets/img/piskel.jpg",
+        "nome": "Piskel",
+        "descricao": "Trabalhando com Piskel", 
+        "link": "https://meulink.com.br"
+    },
+
+    {
+        "id": "03",
+        "imagem": "./assets/img/rpgcardclass.jpg",
+        "nome": "RPG Card",
+        "descricao": "Cartas de classes de RPG", 
+        "link": "https://meulink.com.br"
+    }
+]
